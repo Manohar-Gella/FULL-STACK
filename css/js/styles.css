@@ -1,0 +1,28 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+}
+
+#hero {
+    background-color: #f5f5f5;
+    padding: 100px 0;
+}
+
+#hero h1 {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+#about, #projects, #cv {
+    padding: 60px 0;
+}
+
+#projects .card {
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
